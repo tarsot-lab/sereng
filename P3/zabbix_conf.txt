@@ -1,0 +1,6 @@
+/etc/zabbix/zabbix_server.conf
+
+DBHost=localhost
+DBName=zabbixdb
+DBUser=zabbixuser
+DBPassword=zabbixpass
